@@ -5,7 +5,7 @@
 - 📫 How to reach me ... You can email me at patmcn300@outlook.com
 
 
-![image](https://user-images.githubusercontent.com/65691549/118656810-dfb55300-b7b8-11eb-85d0-33399b114900.png)
+
 
 <!---
 PatMcN7/PatMcN7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
